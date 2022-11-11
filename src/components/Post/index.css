@@ -1,4 +1,22 @@
 #post {
   border: 10px solid fuchsia;
   width: 50vw;
+  
+}
+/* .article{
+  padding-left: 10%;
+  padding-right: 10%;
+} */
+main{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+img {
+  height: 15vw;
+}
+
+.text{
+  padding-left: 10%;
+  padding-right: 10%;
 }
